@@ -1,2 +1,1 @@
-# IPlAuction
-It does the drag and drop from one team to another team.
+This assignment is based on drag and drop.
